@@ -1,1 +1,1 @@
-# regsvr32
+# regsvr32 module for CrackmapExec
